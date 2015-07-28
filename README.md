@@ -1,13 +1,13 @@
-# sun-tzu-quotes
+# zippy-quotes
 
-A list of some Sun Tzu quotes from The Art of War.
+YOW!! A list of some CLASSIC quotes from the ZIPPY fortune file.
 
 PRs welcome.
 
 ## Install
 
 ```sh
-npm install sun-tzu-quotes [--g|--save]
+npm install zippy-quotes [--g|--save]
 ```
 
 ## Example
@@ -15,31 +15,31 @@ npm install sun-tzu-quotes [--g|--save]
 This module comes in an API and CLI. Example in code:
 
 ```js
-var sunTzu = require('sun-tzu-quotes')
+var zippy = require('zippy-quotes')
 
 // random quote
-console.log(sunTzu())
-//=> 'All warfare is based on deception.'
+console.log(zippy())
+//=> '"DARK SHADOWS" is on!! Hey, I think the VAMPIRE forgot his UMBRELLA!!'
 
 // the array of all quotes
-console.log(sunTzu.quotes)
+console.log(zippy.quotes)
 ```
 
 ## Usage
 
-[![NPM](https://nodei.co/npm/sun-tzu-quotes.png)](https://www.npmjs.com/package/sun-tzu-quotes)
+[![NPM](https://nodei.co/npm/zippy-quotes.png)](https://www.npmjs.com/package/zippy-quotes)
 
 ### API
 
-#### `quote = sunTzu()`
+#### `quote = zippy()`
 
-Returns a random quote string, like `'Opportunities multiply as they are seized.'`.
+Returns a random quote string, like `'INSIDE, I have the same personality disorder as LUCY RICARDO!!'`.
 
-#### `list = sunTzu.quotes`
+#### `list = zippy.quotes`
 
 The array of all quotes.
 
-#### `list = require('sun-tzu-quotes/quotes.json')`
+#### `list = require('zippy-quotes/quotes.json')`
 
 The full JSON array.
 
@@ -49,7 +49,7 @@ You can also use the CLI here.
 
 ```
 Usage:
-  sun-tzu-quotes [opt]
+  zippy-quotes [opt]
   
 Options:
   --help  show help
@@ -59,10 +59,10 @@ Options:
 Example:
 
 ```sh
-$ sun-tzu-quotes
-To know your Enemy, you must become your Enemy.
+$ zippy-quotes
+Now, my ENTIRE LIFE is flashing before my EYES as I park my DODGE DART in your EXXON service area for a COMPLETE LUBRICATION!!
 ```
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/mattdesl/sun-tzu-quotes/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/julescarbon/zippy-quotes/blob/master/LICENSE.md) for details.

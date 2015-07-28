@@ -1,21 +1,29 @@
-The MIT License (MIT)
-Copyright (c) 2015 Matt DesLauriers
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
-OR OTHER DEALINGS IN THE SOFTWARE.
+                         Jollo LNT license
+                     Version 1 - February 2015
+  
+  Copyright, 2015. JOLLO NET NA. 
+  The Jollo IRC Network. <https://jollo.org/>
+  
+  Vu, fare wanderer, confronted with raw, programmatic instruction
+  dans la forme la plus pure.  A hesitation, troubled to the terms
+  qui ce license affirme. Par un voyage du explorer le mechanisme 
+  et ponder la fabrication. Voila! La remide: egress sans risque.
+  
+  Sans trace (Leave No Trace) via sept principales:
+  
+  0. Modifique language en advance. L'Apposer Jollo LNT license
+     with copies en distribuer. 
+  
+  1. Non responsible pour neglige programme du problematique. 
+  
+  2. Non sympathie pour neglige programme du problematique.
+  
+  3. Non permission l'modifique under any circumstance.
+  
+  4. Non permission distribution under any circumstance.
+  
+  5. Respect les programmatic instructions.
+  
+  6. Non interfere avec l'harmonie d'une amitie.
+  
 

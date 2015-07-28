@@ -1,5 +1,5 @@
 Usage:
-  sun-tzu-quotes [opt]
+  zippy-quotes [opt]
   
 Options:
   --help  show help
