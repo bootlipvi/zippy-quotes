@@ -1,6 +1,6 @@
 # zippy-quotes
 
-YOW!! A list of some CLASSIC quotes from the ZIPPY fortune file.
+YOW!! A list of some CLASSIC quotes from the ZIPPY THE PINHEAD [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) file.
 
 PRs welcome.
 
@@ -33,7 +33,7 @@ console.log(zippy.quotes)
 
 #### `quote = zippy()`
 
-Returns a random quote string, like `'INSIDE, I have the same personality disorder as LUCY RICARDO!!'`.
+Returns a random quote string, like `'I'm CONTROLLED by the CIA!! EVERYONE is controlled by the CIA!!'`.
 
 #### `list = zippy.quotes`
 
@@ -60,9 +60,9 @@ Example:
 
 ```sh
 $ zippy-quotes
-Now, my ENTIRE LIFE is flashing before my EYES as I park my DODGE DART in your EXXON service area for a COMPLETE LUBRICATION!!
+I just forgot my whole philosophy of life!!!
 ```
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/julescarbon/zippy-quotes/blob/master/LICENSE.md) for details.
+LNT, see [LICENSE.md](http://github.com/julescarbon/zippy-quotes/blob/master/LICENSE.md) for details.
