@@ -1,68 +1,32 @@
-# zippy-quotes
+# Zippy Quotes
 
-YOW!! A list of some CLASSIC quotes from the ZIPPY THE PINHEAD [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) file.
+Zippy Quotes is a simple command-line application that displays random quotes or all quotes from a predefined list. This project is designed to be easy to use and extend.
 
-PRs welcome.
+## Installation
 
-## Install
+To install the required dependencies, run:
 
-```sh
-npm install zippy-quotes [--g|--save]
 ```
-
-## Example
-
-This module comes in an API and CLI. Example in code:
-
-```js
-var zippy = require('zippy-quotes')
-
-// random quote
-console.log(zippy())
-//=> '"DARK SHADOWS" is on!! Hey, I think the VAMPIRE forgot his UMBRELLA!!'
-
-// the array of all quotes
-console.log(zippy.quotes)
+pip install -r requirements.txt
 ```
 
 ## Usage
 
-[![NPM](https://nodei.co/npm/zippy-quotes.png)](https://www.npmjs.com/package/zippy-quotes)
-
-### API
-
-#### `quote = zippy()`
-
-Returns a random quote string, like `'I'm CONTROLLED by the CIA!! EVERYONE is controlled by the CIA!!'`.
-
-#### `list = zippy.quotes`
-
-The array of all quotes.
-
-#### `list = require('zippy-quotes/quotes.json')`
-
-The full JSON array.
-
-### CLI
-
-You can also use the CLI here.
+To run the application, use the following command:
 
 ```
-Usage:
-  zippy-quotes [opt]
-  
-Options:
-  --help  show help
-  --all   list all quotes, separated by newlines
+python src/cli.py [options]
 ```
 
-Example:
+### Options
 
-```sh
-$ zippy-quotes
-I just forgot my whole philosophy of life!!!
-```
+- `-h`, `--help`: Display help information.
+- `--all`: Display all quotes.
+
+## Contributing
+
+Feel free to submit issues or pull requests if you have suggestions or improvements.
 
 ## License
 
-LNT, see [LICENSE.md](http://github.com/julescarbon/zippy-quotes/blob/master/LICENSE.md) for details.
+This project is licensed under the MIT License.
